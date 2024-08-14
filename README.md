@@ -7,7 +7,7 @@ I have worked on data science projects, using my skills in data analysis, EDA, d
 
 I have a keen interest and expertise in machine learning, Data Science and natural language processing (NLP). I have worked on various ML models for tasks such as sentiment analysis and text classification. I have good knowledge of libraries such as scikit-learn, and NLTK and programming skills in Python. 
 
-'''
+
 ## My Current Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-150458?logo=python&logoColor=white&style=flat-square">
